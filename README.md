@@ -65,7 +65,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 * 02 - Working with Files, Texts, and Regular Expressions (**Will be released soon**)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
 * 04 - Summary and Resources]() (**Will be released soon**)
-* [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch video 00 first in any case.)
+* [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=172xwKhvoIk) first in any case.)
 
 ## Exercises (2020)
 
@@ -78,4 +78,6 @@ This workshop, next to the videos and livestream, has 16 exercises. You can find
 
 ## License
 
-You are (relatively) free to use these materials as you like. The code (notebooks) are licensed under the MIT License. The slides and videos are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
+You are (relatively) free to use these materials as you like.
+
+The code (notebooks) is licensed under the MIT License. The slides and videos are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
