@@ -33,7 +33,7 @@ After completing this workshop, you will be able to ...
 Of course, you can use the materials here as you see fit. However, ideally, you take this workshop in the following order:
 
 1. Watch the video ["Python Programming for Absolute Beginners"](https://www.youtube.com/watch?v=172xwKhvoIk).
-2. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises 1-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
+2. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
 3. Watch the video "The Pizza Problem".
 4. Try to solve exercises 4 and 5.
 5. Watch the video "Working with Files, Texts, and Regular Expressions".
@@ -71,7 +71,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 
 This workshop, next to the videos and livestream, has 16 exercises. You can find them, as well as the solutions, [here](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/exercises).
 
-* [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises 1-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
+* [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
 * Exercises 4-5] (**Will be released soon**)
 * Exercises 6-7] (**Will be released soon**)
 * Exercises 8-16] (**Will be released soon**)
