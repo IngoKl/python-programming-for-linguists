@@ -71,7 +71,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 
 This workshop, next to the videos and livestream, has 16 exercises. You can find them, as well as the solutions, [here](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/exercises).
 
-* [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises 1-3.pdf)
+* [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises 1-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
 * Exercises 4-5] (**Will be released soon**)
 * Exercises 6-7] (**Will be released soon**)
 * Exercises 8-16] (**Will be released soon**)
