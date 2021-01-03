@@ -6,7 +6,7 @@ Welcome to this repository for the "Python Programming for Linguists" workshop.
 
 In this workshop, consisting of five videos, several exercises, and a live session, you will be introduced to Python. After a short general introduction to programming as well as Python, we will utilize Python to solve several (corpus) linguistic exercises.
 
-This workshop is specifically targeted towards people who have no prior experience programming. While this workshop is not intended to make you a programmer, you will gain a fundamental understanding of how programming works and how to proceed should you want to deepen your knowledge and skills.
+This workshop is specifically targeted towards people who have **no prior experience programming**. While this workshop is not intended to make you a programmer, you will gain a fundamental understanding of how programming works and how to proceed should you want to deepen your knowledge and skills.
 
 Please **be aware** that this workshop was specifically designed as **a first introduction to programming for non-coders and linguists** and not as a fully-fledged Python course. Therefore, we will take some shortcuts, disobey some best practices, and hide away quite a few of the underlying complexities. If you are interested in a more thorough introduction or want to deepen your already existing knowledge, please refer to the final video in which I present many great resources.
 
