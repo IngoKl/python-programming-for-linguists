@@ -32,7 +32,7 @@ After completing this workshop, you will be able to ...
 
 Of course, you can use the materials here as you see fit. However, ideally, you take this workshop in the following order:
 
-1. Watch the video ["Python Programming for Absolute Beginners"](https://www.youtube.com/watch?v=172xwKhvoIk).
+1. Watch the video ["Python Programming for Absolute Beginners"](https://www.youtube.com/watch?v=KwVR2ApP2yk).
 2. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
 3. Watch the video "The Pizza Problem".
 4. Try to solve exercises 4 and 5.
@@ -60,12 +60,12 @@ The live session will take place (as it is currently planned) on **January 15th,
 
 All of these videos are currently hosted on YouTube ([YouTube Playlist](https://www.youtube.com/playlist?list=PLG6oHk0SZfBxRIegm0QvzDvmumma7grp5)).
 
-* [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=172xwKhvoIk)
+* [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=KwVR2ApP2yk)
 * 01 - The Pizza Problem (**Will be released soon**)
 * 02 - Working with Files, Texts, and Regular Expressions (**Will be released soon**)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
 * 04 - Summary and Resources]() (**Will be released soon**)
-* [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=172xwKhvoIk) first in any case.)
+* [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=KwVR2ApP2yk) first in any case.)
 
 ## Exercises (2020)
 
