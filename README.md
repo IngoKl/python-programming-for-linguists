@@ -64,7 +64,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * 02 - Working with Files, Texts, and Regular Expressions (**Will be released soon**)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
-* 04 - Summary and Resources]() (**Will be released soon**)
+* 04 - Summary and Resources (**Will be released soon**)
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=KwVR2ApP2yk) first in any case.)
 
 ## Exercises (2020)
