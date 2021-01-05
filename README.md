@@ -34,8 +34,8 @@ Of course, you can use the materials here as you see fit. However, ideally, you 
 
 1. Watch the video ["Python Programming for Absolute Beginners"](https://www.youtube.com/watch?v=KwVR2ApP2yk).
 2. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
-3. Watch the video "The Pizza Problem".
-4. Try to solve exercises 4 and 5.
+3. Watch the video ["The Pizza Problem"](https://www.youtube.com/watch?v=g9tOyVI5B3E).
+4. Try to solve [exercises 4 and 5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb)).
 5. Watch the video "Working with Files, Texts, and Regular Expressions".
 6. Try to solve exercises 6 and 7.
 7. Think about exercises 8 to 16 and do some research on how you could approach these problems.
@@ -61,7 +61,7 @@ The live session will take place (as it is currently planned) on **January 15th,
 All of these videos are currently hosted on YouTube ([YouTube Playlist](https://www.youtube.com/playlist?list=PLG6oHk0SZfBxRIegm0QvzDvmumma7grp5)).
 
 * [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=KwVR2ApP2yk)
-* 01 - The Pizza Problem (**Will be released soon**)
+* [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * 02 - Working with Files, Texts, and Regular Expressions (**Will be released soon**)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
 * 04 - Summary and Resources]() (**Will be released soon**)
@@ -72,7 +72,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 This workshop, next to the videos and livestream, has 16 exercises. You can find them, as well as the solutions, [here](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/exercises).
 
 * [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
-* Exercises 4-5 (**Will be released soon**)
+* [Exercises 4-5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb))
 * Exercises 6-7 (**Will be released soon**)
 * Exercises 8-16 (**Will be released soon**)
 

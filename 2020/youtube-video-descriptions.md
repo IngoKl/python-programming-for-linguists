@@ -17,6 +17,21 @@ Content
 44:45 5. Functions
 49:50 6. Dictionaries
 
+## 01 - The Pizza Problem
+
+This video is part of my 2020 "Python Programming for Linguists" workshop.
+Workshop: https://github.com/IngoKl/python-programming-for-linguists
+
+Content
+00:00 The Pizza Problem
+03:17 Good Solutions
+08:10 Modeling Pizzas
+13:10 Determining Areas
+22:00 PTER and Best/Worst Pizza
+30:30 A Simple Algorithm
+43:25 Bonus Exercises
+
+
 ## 05 - Setting Up Your Development Environment
 
 This video is part of my 2020 "Python Programming for Linguists" workshop.
