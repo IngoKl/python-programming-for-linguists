@@ -31,8 +31,7 @@ Content
 30:30 A Simple Algorithm
 43:25 Bonus Exercises
 
-
 ## 05 - Setting Up Your Development Environment
 
 This video is part of my 2020 "Python Programming for Linguists" workshop.
-Workshop: https://github.com/IngoKl/python-prog...
+Workshop: https://github.com/IngoKl/python-programming-for-linguists
