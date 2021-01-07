@@ -2,9 +2,10 @@
 
 The command line is a text-based interface to your computer (or a computer in the cloud). It allows you to perform actions on the computer by running commands.
 
-In (Google Colab / Jupyter) notebooks, you can execute these commands by prefixing them with the `!` character. You could, for example, run `!ls` in a notebook cell to list all files in the current folder.
+In (*Google Colab* / *Jupyter*) notebooks, you can execute these commands by prefixing them with the `!` character. 
+Therefore, you could, for example, run `!ls` in a notebook cell to list all files in the current folder.
 
-*Please note:* The command line is a *very* powerful and useful tool worth exploring. However, this very short primer is only going to introduce you to some very basic commands that will help you during this workshop.
+**Please note:** The command line is a *very* powerful and useful tool worth exploring. However, this very short primer is only going to introduce you to some very basic commands that will help you during this workshop.
 
 ## Navigating the File System
 
@@ -31,13 +32,17 @@ If you need to delete a file, you can run `rm filename` (e.g., `cat exercise.txt
 ## Useful Commands
 
 Find a specific string in a file
+
 `cat file.txt | grep 'search term'`
 
 Replace every instance of *word_a* with *word_b* in file `file.txt`
+
 `sed 's/word_a/word_b/g' file.txt`
 
 Display the differences between `file_a.txt` and `file_b.txt`
+
 `diff file_a.txt file_b.txt`
 
 Count the lines, words, and characters in `file.txt`
+
 `wc file.txt` or `wc -w file.txt` to just get the word count.

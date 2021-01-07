@@ -73,7 +73,7 @@ This workshop, next to the videos and livestream, has 16 exercises. You can find
 
 * [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
 * [Exercises 4-5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb))
-* Exercises 6-7 (https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
+* [Exercises 6-7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 * Exercises 8-16 (**Will be released soon**)
 * [Bonus: Understanding Classes and Objects](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/notebooks/Bonus_Understanding_Classes_and_Objects.ipynb)
 
