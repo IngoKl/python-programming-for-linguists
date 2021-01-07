@@ -36,8 +36,8 @@ Of course, you can use the materials here as you see fit. However, ideally, you 
 2. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
 3. Watch the video ["The Pizza Problem"](https://www.youtube.com/watch?v=g9tOyVI5B3E).
 4. Try to solve [exercises 4 and 5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb)).
-5. Watch the video "Working with Files, Texts, and Regular Expressions".
-6. Try to solve exercises 6 and 7.
+5. Watch the video ["Working with Files, Texts, and Regular Expressions"](https://www.youtube.com/watch?v=y37_JvSY-GM).
+6. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 7. Think about exercises 8 to 16 and do some research on how you could approach these problems.
 8. Attend the live session or watch the recording - Python for (Corpus) Linguists + Exercises 8 to 16.
 9. Watch the video "Summary and Resources".
@@ -62,7 +62,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 
 * [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=4UnF45lniyY)
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
-* 02 - Working with Files, Texts, and Regular Expressions (**Will be released soon**)
+* [02 - Working with Files, Texts, and Regular Expressions](https://www.youtube.com/watch?v=y37_JvSY-GM)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
 * 04 - Summary and Resources (**Will be released soon**)
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=4UnF45lniyY) first in any case.)
@@ -73,8 +73,19 @@ This workshop, next to the videos and livestream, has 16 exercises. You can find
 
 * [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
 * [Exercises 4-5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb))
-* Exercises 6-7 (**Will be released soon**)
+* Exercises 6-7 (https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 * Exercises 8-16 (**Will be released soon**)
+* [Bonus: Understanding Classes and Objects](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/notebooks/Bonus_Understanding_Classes_and_Objects.ipynb)
+
+## Slides
+
+All of the slides (in both `.pptx` and `.pdf`) [are available as well](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/slides).
+
+## Helpful Additional Material
+
+* [Command Line Primer](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Command_Line_Primer.md)
+* [Video: A RegEx Primer for Linguistics](https://www.youtube.com/watch?v=p7-QkwOU9RY)
+* [Video: A Git Primer for Linguistics](https://www.youtube.com/watch?v=7EETKVp20y4)
 
 ## License
 

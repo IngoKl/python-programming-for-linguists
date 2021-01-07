@@ -31,6 +31,23 @@ Content
 30:30 A Simple Algorithm
 43:25 Bonus Exercises
 
+## 02 - Working with Files, Texts, and Regular Expressions
+
+This video is part of my 2020 "Python Programming for Linguists" workshop.
+Workshop: https://github.com/IngoKl/python-programming-for-linguists
+
+Content
+00:11 Reading and Writing Files
+08:20 Working with Text
+15:30 Difflib
+15:46 import Statement
+22:23 Regular Expressions
+29:57 TextDirectory
+
+## 03 - Python for (Corpus) Linguists
+
+## 04 - Summary and Resources.pptx
+
 ## 05 - Setting Up Your Development Environment
 
 This video is part of my 2020 "Python Programming for Linguists" workshop.
