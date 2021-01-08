@@ -44,9 +44,9 @@ Of course, you can use the materials here as you see fit. However, ideally, you 
 4. Try to solve [exercises 4 and 5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb)).
 5. Watch the video ["Working with Files, Texts, and Regular Expressions"](https://www.youtube.com/watch?v=y37_JvSY-GM).
 6. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
-7. Think about exercises 8 to 16 and do some research on how you could approach these problems.
+7. Think about [exercises 8 to 16]((https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%208-16.pdf)) and do some research on how you could approach these problems.
 8. Attend the live session or watch the recording - Python for (Corpus) Linguists + Exercises 8 to 16.
-9. Watch the video ["Summary and Resources"]().
+9. Watch the video "Summary and Resources"].
 
 Please note that for each exercise, you will find **solutions in this repository**. Don't feel bad if you cannot immediately solve the exercises - the solutions are there to help you. Of course, feel free to take apart these suggested solutions and play with them.
 
@@ -70,7 +70,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * [02 - Working with Files, Texts, and Regular Expressions](https://www.youtube.com/watch?v=y37_JvSY-GM)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
-* [04 - Summary and Resources]()
+* 04 - Summary and Resources
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=4UnF45lniyY) first in any case.)
 
 ## Exercises (2020)
