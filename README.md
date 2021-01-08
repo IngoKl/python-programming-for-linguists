@@ -2,6 +2,12 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IngoKl/python-programming-for-linguists/)
 
+---
+
+**Live Session**: The [live session](https://www.twitch.tv/ingokl) will be on **January 15th, 2021** at **18:00 CET**. ([Twitch](https://www.twitch.tv/ingokl))
+
+---
+
 Welcome to this repository for the "Python Programming for Linguists" workshop.
 
 In this workshop, consisting of five videos, several exercises, and a live session, you will be introduced to Python. After a short general introduction to programming as well as Python, we will utilize Python to solve several (corpus) linguistic exercises.
@@ -25,7 +31,7 @@ After completing this workshop, you will be able to ...
 * utilize Python for text manipulation.
 * utilize Python to perform concordance and frequency analysis.
 * automatically annotate texts (PoS, Universal Dependencies, NER) using spaCy.
-* scrape web data in order to build corpora (Web as Corpus) using Python.s
+* scrape web data in order to build corpora (Web as Corpus) using Python.
 * compute basic statistics using Python.
 
 ## Workshop Outline
@@ -40,7 +46,7 @@ Of course, you can use the materials here as you see fit. However, ideally, you 
 6. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 7. Think about exercises 8 to 16 and do some research on how you could approach these problems.
 8. Attend the live session or watch the recording - Python for (Corpus) Linguists + Exercises 8 to 16.
-9. Watch the video "Summary and Resources".
+9. Watch the video ["Summary and Resources"]().
 
 Please note that for each exercise, you will find **solutions in this repository**. Don't feel bad if you cannot immediately solve the exercises - the solutions are there to help you. Of course, feel free to take apart these suggested solutions and play with them.
 
@@ -54,7 +60,7 @@ The videos are intended to be paused from time to time. Do not feel forced to wa
 
 ## Live Session
 
-The live session will take place (as it is currently planned) on **January 15th, 2021** at **18:00 CET** on Twitch. More details will follow!
+The live session will take place on **January 15th, 2021** at **18:00 CET** on [Twitch](https://www.twitch.tv/ingokl).
 
 ## Videos and Recordings (2020)
 
@@ -64,7 +70,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * [02 - Working with Files, Texts, and Regular Expressions](https://www.youtube.com/watch?v=y37_JvSY-GM)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
-* 04 - Summary and Resources (**Will be released soon**)
+* [04 - Summary and Resources]()
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=4UnF45lniyY) first in any case.)
 
 ## Exercises (2020)
