@@ -49,6 +49,18 @@ Content
 
 ## 04 - Summary and Resources.pptx
 
+This video is part of my 2020 "Python Programming for Linguists" workshop.
+Workshop: https://github.com/IngoKl/python-programming-for-linguists
+
+Content
+00:00 Conclusion
+00:18 Learning Objectives
+06:13 What You Might Have Missed
+07:09 No-Code Generation
+09:23 Books
+09:56 Online Courses
+11:17 Other Resources
+
 ## 05 - Setting Up Your Development Environment
 
 This video is part of my 2020 "Python Programming for Linguists" workshop.

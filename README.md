@@ -12,7 +12,7 @@ Welcome to this repository for the "Python Programming for Linguists" workshop.
 
 In this workshop, consisting of five videos, several exercises, and a live session, you will be introduced to Python. After a short general introduction to programming as well as Python, we will utilize Python to solve several (corpus) linguistic exercises.
 
-This workshop is specifically targeted towards people who have **no prior experience programming**. While this workshop is not intended to make you a programmer, you will gain a fundamental understanding of how programming works and how to proceed should you want to deepen your knowledge and skills.
+This workshop is specifically targeted towards people who have **no prior experience programming**. While this workshop is not intended to make you a programmer, you will gain a fundamental understanding of how programming works and how to proceed should you want to deepen your knowledge and skills. Also, by looking at various example tasks that are commonly solved using existing software, we will try deepen our understanding of how commonly used tools work under the hood.
 
 Please **be aware** that this workshop was specifically designed as **a first introduction to programming for non-coders and linguists** and not as a fully-fledged Python course. Therefore, we will take some shortcuts, disobey some best practices, and hide away quite a few of the underlying complexities. If you are interested in a more thorough introduction or want to deepen your already existing knowledge, please refer to the final video in which I present many great resources.
 
@@ -46,7 +46,7 @@ Of course, you can use the materials here as you see fit. However, ideally, you 
 6. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 7. Think about [exercises 8 to 16]((https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%208-16.pdf)) and do some research on how you could approach these problems.
 8. Attend the live session or watch the recording - Python for (Corpus) Linguists + Exercises 8 to 16.
-9. Watch the video "Summary and Resources"].
+9. Watch the video ["Summary and Resources"](https://www.youtube.com/watch?v=ajKqESDmrKc).
 
 Please note that for each exercise, you will find **solutions in this repository**. Don't feel bad if you cannot immediately solve the exercises - the solutions are there to help you. Of course, feel free to take apart these suggested solutions and play with them.
 
@@ -70,7 +70,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * [02 - Working with Files, Texts, and Regular Expressions](https://www.youtube.com/watch?v=y37_JvSY-GM)
 * 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
-* 04 - Summary and Resources
+* [04 - Summary and Resources](https://www.youtube.com/watch?v=ajKqESDmrKc)
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=4UnF45lniyY) first in any case.)
 
 ## Exercises (2020)
@@ -90,11 +90,13 @@ All of the slides (in both `.pptx` and `.pdf`) [are available as well](https://g
 ## Helpful Additional Material
 
 * [Command Line Primer](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Command_Line_Primer.md)
+* [Links to Resources](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Links_to_Resources.md)
 * [Video: A RegEx Primer for Linguistics](https://www.youtube.com/watch?v=p7-QkwOU9RY)
 * [Video: A Git Primer for Linguistics](https://www.youtube.com/watch?v=7EETKVp20y4)
 
 ## License
 
-You are (relatively) free to use these materials as you like.
+You are (relatively) free to use all of these materials as you like. 
 
-The code (notebooks) is licensed under the MIT License. The slides and videos are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
+* The code (notebooks and scripts) is licensed under the [MIT License](https://github.com/IngoKl/python-programming-for-linguists/blob/main/LICENSE.md).
+* The slides, videos, and exercises are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
