@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir -p corpora/coca
+mkdir -p ./corpora/coca
 mkdir temp
 
 cd temp
