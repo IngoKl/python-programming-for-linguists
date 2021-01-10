@@ -16,3 +16,7 @@ This folder contains two files/texts that can be tokenized.
 
 * simple.txt contains one sentence that can be easily tokenized using a whitespace tokenizer.
 * challenge.txt contains two sentences that pose some challenges for a tokenizer.
+
+## Corpus of Contemporary American English (COCA)
+
+## HUM19UK Corpus
