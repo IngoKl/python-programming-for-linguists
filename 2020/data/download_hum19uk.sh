@@ -1,6 +1,6 @@
 #!/bin/sh
 
-mkdir corpora/hum19uk.sh
+mkdir corpora/hum19uk
 mkdir temp
 
 cd temp
