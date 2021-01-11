@@ -1,0 +1,30 @@
+<document>
+    <page pg_nr="1">
+        <s>
+            <w pos="determiner">The</w>
+            <w pos="noun">flower</w>
+            <w pos="verb">was</w>
+            <w pos="adjective">red.</w>
+        </s>
+        <s>
+            <w pos="pronoun">It</w>
+            <w pos="verb">smelled</w>
+            <w pos="preposition">of</w>
+            <w pos="noun">summer.</w>
+        </s>
+    </page>
+    <page pg_nr="2">
+        <s>
+            <w pos="pronoun">She</w>
+            <w pos="verb">enjoyed</w>
+            <w pos="det">the</w>
+            <w pos="noun">trip.</w>
+        </s>
+        <s>
+            <w pos="pronoun">They</w>
+            <w pos="verb">took</w>
+            <w pos="det">a</w>
+            <w pos="noun">bus.</w>
+        </s>
+    </page>
+</document>

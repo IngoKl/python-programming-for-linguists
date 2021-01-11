@@ -28,3 +28,4 @@
 * [PyCon](https://pycon.org/)
 * [Peter Norvig’s *pytudes*](https://github.com/norvig/pytudes)
 * [Stanford NLP’s CS224n: *Natural Language Processing with Deep Learning*](http://web.stanford.edu/class/cs224n/)
+* [Calcomde - Great Short Video Tutorials](https://calmcode.io/)
