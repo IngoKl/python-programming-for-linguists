@@ -4,6 +4,8 @@
 
 ![Python Programming for Linguists](https://github.com/IngoKl/python-programming-for-linguists/blob/main/banner.png)
 
+---
+
 **Live Session**: The [live session](https://www.twitch.tv/ingokl) will be on **January 15th, 2021** at **18:00 CET**. ([Twitch](https://www.twitch.tv/ingokl))
 
 ---
