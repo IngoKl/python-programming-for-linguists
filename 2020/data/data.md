@@ -17,6 +17,12 @@ This folder contains two files/texts that can be tokenized.
 * simple.txt contains one sentence that can be easily tokenized using a whitespace tokenizer.
 * challenge.txt contains two sentences that pose some challenges for a tokenizer.
 
+## numerical
+
+This folder contains numerical data to experiment with libraries such as `Pandas`.
+
+* pandas_demo.csv is a comma-separated values file (separator: `,`) that contains four rows of numerical demo data.
+
 ## Downloadable Data
 
 ### Corpus of Contemporary American English (COCA)
