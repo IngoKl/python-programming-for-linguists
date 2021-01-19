@@ -6,7 +6,9 @@
 
 ---
 
-**Live Session**: ~~The [live session](https://www.twitch.tv/ingokl) will be on **January 15th, 2021** at **18:00 CET**. ([Twitch](https://www.twitch.tv/ingokl))~~ [Edited Recording of the 2020/2021 Live Session](https://www.youtube.com/watch?v=70g9oeclNac)
+**Live Session**: ~~The [live session](https://www.twitch.tv/ingokl) will be on **January 15th, 2021** at **18:00 CET**. ([Twitch](https://www.twitch.tv/ingokl))~~ 
+
+[Edited Recording of the 2020/2021 Live Session](https://www.youtube.com/watch?v=70g9oeclNac)
 
 ---
 
