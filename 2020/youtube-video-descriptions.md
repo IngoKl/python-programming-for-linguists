@@ -45,7 +45,28 @@ Content
 20:23 Regular Expressions
 29:57 TextDirectory
 
-## 03 - Python for (Corpus) Linguists
+## 03 - Python for (Corpus) Linguists (Live Recording)
+
+This video is part of my 2020 "Python Programming for Linguists" workshop.
+Workshop: https://github.com/IngoKl/python-programming-for-linguists
+
+This is the recording of the workshop live session "Python for (Corpus) Linguists". During the stream, I live coded exercises 8 to 16. The recording has been slightly shortened, and I have also added some explanatory slides. Given that this is a recording of a live session, it is not as polished as a screencast, and you can also watch me making mistakes along the way! :)
+
+The finished and somewhat polished Python notebook (Google Colab), as well as the slides, are available in the repository.
+
+Content
+00:00 Live Session
+03:23 New Syntax and Tools
+15:16 Exercise Environment
+18:00 Ex. 8 - Concordancer
+37:19 Ex. 9 - N-Grams
+47:15 Ex. 10 - Frequency Analysis
+53:01 Ex. 11 - Computing Basic Statistics
+01:24:37 Ex. 12 - NLTK Stemming, Lemmatization, and WordNet
+01:35:40  Ex. 13 - spaCy Tagging
+01:48:50 Ex. 14 - XML Parsing and XPath
+02:02:40  Ex. 15 - Web Scraping
+02:11:15 Ex. 16 - Putting Everything Together (Keywords)
 
 ## 04 - Summary and Resources.pptx
 

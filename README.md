@@ -6,7 +6,7 @@
 
 ---
 
-**Live Session**: The [live session](https://www.twitch.tv/ingokl) will be on **January 15th, 2021** at **18:00 CET**. ([Twitch](https://www.twitch.tv/ingokl))
+**Live Session**: ~~The [live session](https://www.twitch.tv/ingokl) will be on **January 15th, 2021** at **18:00 CET**. ([Twitch](https://www.twitch.tv/ingokl))~~ [Edited Recording of the 2020/2021 Live Session](https://www.youtube.com/watch?v=70g9oeclNac)
 
 ---
 
@@ -47,7 +47,7 @@ Of course, you can use the materials here as you see fit. However, ideally, you 
 5. Watch the video ["Working with Files, Texts, and Regular Expressions"](https://www.youtube.com/watch?v=y37_JvSY-GM).
 6. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 7. Think about [exercises 8 to 16]((https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%208-16.pdf)) and do some research on how you could approach these problems.
-8. Attend the live session or watch the recording - Python for (Corpus) Linguists + Exercises 8 to 16.
+8. Attend the live session or watch the [recording](https://www.youtube.com/watch?v=70g9oeclNac) - Python for (Corpus) Linguists + Exercises 8 to 16.
 9. Watch the video ["Summary and Resources"](https://www.youtube.com/watch?v=ajKqESDmrKc).
 
 Please note that for each exercise, you will find **solutions in this repository**. Don't feel bad if you cannot immediately solve the exercises - the solutions are there to help you. Of course, feel free to take apart these suggested solutions and play with them.
@@ -64,6 +64,10 @@ The videos are intended to be paused from time to time. Do not feel forced to wa
 
 The live session will take place on **January 15th, 2021** at **18:00 CET** on [Twitch](https://www.twitch.tv/ingokl).
 
+The **recording** of the live session has been edited and slightly polished. A few unnecessary parts have been cut and slides, instead of impromptu drawings, have been added. Even if you have attended the live session, I would reccomend having a look at the recording to revisit the exercises.
+
+[Edited Recording of the 2020/2021 Live Session](https://www.youtube.com/watch?v=70g9oeclNac)
+
 ## Videos and Recordings (2020)
 
 All of these videos are currently hosted on YouTube ([YouTube Playlist](https://www.youtube.com/playlist?list=PLG6oHk0SZfBxRIegm0QvzDvmumma7grp5)).
@@ -71,7 +75,7 @@ All of these videos are currently hosted on YouTube ([YouTube Playlist](https://
 * [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=4UnF45lniyY)
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * [02 - Working with Files, Texts, and Regular Expressions](https://www.youtube.com/watch?v=y37_JvSY-GM)
-* 03 - Python for (Corpus) Linguists / **Live-Recording** (**Will be released soon**)
+* [03 - Python for (Corpus) Linguists / Exercises 8-16](https://www.youtube.com/watch?v=70g9oeclNac) (This is an *edited and slightly polished* recording of the 2020/2021 live session)
 * [04 - Summary and Resources](https://www.youtube.com/watch?v=ajKqESDmrKc)
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=4UnF45lniyY) first in any case.)
 
@@ -82,7 +86,7 @@ This workshop, next to the videos and livestream, has 16 exercises. You can find
 * [Exercises 1-3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
 * [Exercises 4-5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb))
 * [Exercises 6-7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
-* [Exercises 8-16](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%208-16.pdf)
+* [Exercises 8-16](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%208-16.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_8_16.ipynb)) (This notebook is a polished version of the one created during the live session)
 * [Bonus: Understanding Classes and Objects](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/notebooks/Bonus_Understanding_Classes_and_Objects.ipynb)
 
 ## Slides
@@ -92,13 +96,14 @@ All of the slides (in both `.pptx` and `.pdf`) [are available as well](https://g
 ## Helpful Additional Material
 
 * [Command Line Primer](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Command_Line_Primer.md)
+* [Commenting in Python](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Commenting_in_python.md)
 * [Links to Resources](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Links_to_Resources.md)
 * [Video: A RegEx Primer for Linguistics](https://www.youtube.com/watch?v=p7-QkwOU9RY)
 * [Video: A Git Primer for Linguistics](https://www.youtube.com/watch?v=7EETKVp20y4)
 
 ## License
 
-You are (relatively) free to use all of these materials as you like. 
+You are (relatively) free to use all of these materials as you like.
 
 * The code (notebooks and scripts) is licensed under the [MIT License](https://github.com/IngoKl/python-programming-for-linguists/blob/main/LICENSE.md).
 * The slides, videos, and exercises are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.

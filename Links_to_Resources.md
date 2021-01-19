@@ -29,3 +29,4 @@
 * [Peter Norvig’s *pytudes*](https://github.com/norvig/pytudes)
 * [Stanford NLP’s CS224n: *Natural Language Processing with Deep Learning*](http://web.stanford.edu/class/cs224n/)
 * [Calcomde - Great Short Video Tutorials](https://calmcode.io/)
+* [Download NLTK Data and Corpora](http://www.nltk.org/nltk_data/)
