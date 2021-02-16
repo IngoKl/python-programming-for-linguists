@@ -18,6 +18,10 @@
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [fast.ai A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
+## Python/NLP University Classes
+* [Stanford NLP’s CS224n: *Natural Language Processing with Deep Learning*](http://web.stanford.edu/class/cs224n/)
+* [Carnegie Mellon's CS 11-747: Neural Networks for NLP](http://phontron.com/class/nn4nlp2021/index.html)
+
 ## Articles
 
 * [Top 10 Python Libraries for Natural Language Processing (NLP) in 2020](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
@@ -27,6 +31,6 @@
 * [Podcast: *Talk Python To Me* by Michael Kennedy](https://talkpython.fm)
 * [PyCon](https://pycon.org/)
 * [Peter Norvig’s *pytudes*](https://github.com/norvig/pytudes)
-* [Stanford NLP’s CS224n: *Natural Language Processing with Deep Learning*](http://web.stanford.edu/class/cs224n/)
 * [Calcomde - Great Short Video Tutorials](https://calmcode.io/)
 * [Download NLTK Data and Corpora](http://www.nltk.org/nltk_data/)
+* [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
