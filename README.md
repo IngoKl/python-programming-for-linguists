@@ -97,9 +97,9 @@ All of the slides (in both `.pptx` and `.pdf`) [are available as well](https://g
 
 ## Bonus Notebooks
 
-Aside from the main material, there are also a few advanced [bonus notebooks]() in this repository. Have a look at them to see more advanced and/or alternative solutions to some of the problems discussed in the workshop.
+Aside from the main material, there are also a few advanced [bonus notebooks](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Bonus%20Notebooks) in this repository. Have a look at them to see more advanced and/or alternative solutions to some of the problems discussed in the workshop.
 
-* [Pizza Problem: Dataclass Solution]()
+* [Pizza Problem: Dataclass Solution](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Bonus%20Notebooks/Pizza_Problem_Dataclass_Solution.ipynb)
 
 ## Helpful Additional Material
 
