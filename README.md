@@ -95,6 +95,12 @@ This workshop, next to the videos and livestream, has 16 exercises. You can find
 
 All of the slides (in both `.pptx` and `.pdf`) [are available as well](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/slides).
 
+## Bonus Notebooks
+
+Aside from the main material, there are also a few advanced [bonus notebooks]() in this repository. Have a look at them to see more advanced and/or alternative solutions to some of the problems discussed in the workshop.
+
+* [Pizza Problem: Dataclass Solution]()
+
 ## Helpful Additional Material
 
 * [Command Line Primer](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Command_Line_Primer.md)
