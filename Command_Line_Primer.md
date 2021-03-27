@@ -46,3 +46,7 @@ Display the differences between `file_a.txt` and `file_b.txt`
 Count the lines, words, and characters in `file.txt`
 
 `wc file.txt` or `wc -w file.txt` to just get the word count.
+
+## Video Tutorial
+
+I have also prepared a video tutorial on using the Linux shell. This [*Shell Primer for Linguistics*](https://www.youtube.com/watch?v=6H-D6ujhMOY) is available via YouTube.
