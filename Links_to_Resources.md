@@ -12,6 +12,7 @@
 ## Online Courses
 
 * [Codecademy](https://www.codecademy.com)
+* [mimo](https://getmimo.com)
 * [DataCamp](https://datacamp.com)
 * [Talk Python Training](https://training.talkpython.fm/)
 * [Django Girls](https://djangogirls.org/)
@@ -19,6 +20,7 @@
 * [fast.ai A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 ## Python/NLP University Classes
+
 * [Stanford NLP’s CS224n: *Natural Language Processing with Deep Learning*](http://web.stanford.edu/class/cs224n/)
 * [Carnegie Mellon's CS 11-747: Neural Networks for NLP](http://phontron.com/class/nn4nlp2021/index.html)
 
