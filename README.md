@@ -58,7 +58,7 @@ The *Absolute Beginner (Long)* path also contains additional materials and exerc
 
 * [Absolute Beginner (Long)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md)
 * [Absolute Beginner (Short)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-short.md)
-* [Experience in Python](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-experienced.md)
+* [Experienced in Python](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-experienced.md)
 
 ### 2.2 Live Session
 

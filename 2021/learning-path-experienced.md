@@ -1,6 +1,6 @@
-# Learning Path - Experience in Python
+# Learning Path - Experienced in Python
 
-Welcome to the *Experience in Python* learning path. This is the shortest learning path and will skip over most introductory material. This document, compared to the beginner's version, is also very matter-of-fact. If you are looking for a little bit more handholding, have a look at the other learning paths. 😊
+Welcome to the *Experienced in Python* learning path. This is the shortest learning path and will skip over most introductory material. This document, compared to the beginner's version, is also very matter-of-fact. If you are looking for a little bit more handholding, have a look at the other learning paths. 😊
 
 Before you proceed, please make sure that you have read the introductory [README.md](https://github.com/IngoKl/python-programming-for-linguists/blob/main/README.md) file outlining this course.
 
