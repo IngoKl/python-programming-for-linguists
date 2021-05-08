@@ -17,9 +17,7 @@ If you are unfamiliar with *Regular Expressions*, now would be a great time to h
 
 Now we are approaching the biggest set of exercises in this workshop. These exercises (Exercises 8 to 17) are very challenging and will be solved during the live session. Of course, you can also go through them by watching the recording. In these exercises, we will recreate some common tools used in corpus linguistics as well as work with some real-life data.
 
-Either way, you should prepare a little before attempting them:
-
-3. Have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
+If you have knowledge about intermediate Python concepts (e.g., List Comprehensions and Pandas `DataFrames`) you can safely skip to the Exercises. If not, have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
 
 Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session.
 
@@ -27,6 +25,6 @@ If you are working through the workshop at your own pace, have a look at the rec
 
 *Congratulations, you are almost finished!* 😃
 
-4. Finally, watch the video ["Summary and Resources"](https://www.youtube.com/watch?v=ajKqESDmrKc).
+3. Finally, watch the video ["Summary and Resources"](https://www.youtube.com/watch?v=ajKqESDmrKc).
 
 Now that you have worked through most of the materials feel free to have a look at the [Bonus Notebooks](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Bonus%20Notebooks) and the [List of Additional Resources](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Links_to_Resources.md).
