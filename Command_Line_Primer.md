@@ -50,3 +50,7 @@ Count the lines, words, and characters in `file.txt`
 ## Video Tutorial
 
 I have also prepared a video tutorial on using the Linux shell. This [*Shell Primer for Linguistics*](https://www.youtube.com/watch?v=6H-D6ujhMOY) is available via YouTube.
+
+## Additional Resources
+
+[Linux Terminal Tools Tutorial by Ketan M.](https://github.com/ketancmaheshwari/lisa19)
