@@ -26,23 +26,23 @@ You should now have a first understanding of the Python programming language as 
 
 Now you will go through a series of videos and exercises. These will teach your Python and also prepare you for the live session (and/or the recording of it) as well as the more challenging exercises down the line.
 
-1. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
-2. Watch the video ["The Pizza Problem"](https://www.youtube.com/watch?v=g9tOyVI5B3E).
-3. Try to solve [exercises 4 and 5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb)).
+3. Familiarize yourself with Python notebooks and try to solve [exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb)).
+4. Watch the video ["The Pizza Problem"](https://www.youtube.com/watch?v=g9tOyVI5B3E).
+5. Try to solve [exercises 4 and 5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb)).
 
 If you are unfamiliar with *Regular Expressions*, now would be a great time to have a look at the [*RegEx Primer for Linguistics*](https://www.youtube.com/watch?v=p7-QkwOU9RY). After watching the video, you should be prepared to take a shot at the [Additional Exercises on Regular Expressions](https://www.youtube.com/watch?v=GGEveroG3Fgs).
 
 Let's get back to the regular program:
 
-1. Watch the video ["Working with Files, Texts, and Regular Expressions"](https://www.youtube.com/watch?v=y37_JvSY-GM).
-2. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb)).
+6. Watch the video ["Working with Files, Texts, and Regular Expressions"](https://www.youtube.com/watch?v=y37_JvSY-GM).
+7. Try to solve [exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb)).
 
 Now we are approaching the biggest set of exercises in this workshop. These exercises (Exercises 8 to 17) are very challenging and will be solved during the live session. Of course, you can also go through them by watching the recording. In these exercises, we will recreate some common tools used in corpus linguistics as well as work with some real-life data.
 
 Either way, you should prepare a little before attempting them:
 
-1. Have a look at the [*(Linux) Command Line Primer*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Command_Line_Primer.md).
-2. Have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
+8. Have a look at the [*(Linux) Command Line Primer*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Command_Line_Primer.md).
+9. Have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
 
 Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session.
 
