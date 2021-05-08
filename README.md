@@ -8,7 +8,7 @@
 
 The **live session** (about three hours) will take place on **June 11th, 2021** at **18:00 CEST** on [Twitch](https://www.twitch.tv/ingokl).
 
-**Quick Start**: Go straight to the [default learning path](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md).
+**Quick Start**: Go straight to the [default learning path](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md) (*Absolute Beginner (Long)*).
 
 ---
 

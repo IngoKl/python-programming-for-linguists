@@ -23,6 +23,7 @@ If you don't want to rely on Google, you will have to set up your own developmen
 ## Let's Get Coding
 
 You should now have a first understanding of the Python programming language as well as an environment in which you can code. *Awesome!* 🎉
+If you have the time, have a brief look at the [*Commenting in Python*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Commenting_in_Python.md) in order to learn how to document your code a little bit better.
 
 Now you will go through a series of videos and exercises. These will teach your Python and also prepare you for the live session (and/or the recording of it) as well as the more challenging exercises down the line.
 
