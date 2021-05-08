@@ -22,7 +22,7 @@ Please **be aware** that this workshop was specifically designed as **a first in
 
 While the materials and exercises are targeted towards beginners, they are **challenging**, and this workshop is designed as an **intense deep dive**!
 
-Please do not feel discouraged if you get stuck or if something seems too hard at first. I have provided solutions for all exercises, and you will also find lots of additional helpful resources in this repository. Also, while not required, you can also prepare for this workshop by consulting other slower-paced introductory courses such as the ones listed in [this document](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Links_to_Resources.md). *You will get there!* 🚀
+Please do not feel discouraged if you get stuck or if something seems too hard at first. I have provided solutions for all exercises, and you will also find lots of additional helpful resources in this repository. Also, while not required, you can prepare for this workshop by consulting other slower-paced introductory courses such as the ones listed in [this document](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Links_to_Resources.md). *You will get there!* 🚀
 
 This (2021) is the second iteration of this workshop which started as part of my *Data Literacy for Linguists* class taught at the University of Cologne. Therefore, I will be reusing most of the material from the 2020 rendition. Please do not get confused about the `2020` and `2021` folders and simply follow the **learning path(s) provided below**. That being said, feel free to explore as much as you want!
 
@@ -54,7 +54,7 @@ The general idea is that you watch a series of videos and complete/attempt a ser
 
 To make things as straightforward as possible, I have created three learning paths for you to follow.
 
-The *Absolute Beginner (Long)* path also contains additional materials and exercises. If you are already somewhat familiar with Python, you can have a look at the *Experience in Python* path.
+The *Absolute Beginner (Long)* path also contains additional materials and exercises. If you are already somewhat familiar with Python, you can have a look at the *Experienced in Python* path.
 
 * [Absolute Beginner (Long)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md)
 * [Absolute Beginner (Short)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-short.md)
