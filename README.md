@@ -114,6 +114,7 @@ Aside from the main material, there are also a few **advanced bonus notebooks** 
 
 * [Pizza Problem: Dataclass Solution](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Bonus%20Notebooks/Pizza_Problem_Dataclass_Solution.ipynb)
 * [Understanding Classes and Objects](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/notebooks/Bonus_Understanding_Classes_and_Objects.ipynb)
+* [Working with R in Python](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Bonus%20Notebooks/Working_with_R_in_Python.ipynb)
 
 ### 4.5 Helpful Additional Material and Primers
 
