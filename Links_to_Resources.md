@@ -32,7 +32,7 @@
 ## spaCy Related
 
 * [Explosion/Vincent Warmerdam - Intro to NLP with spaCy](https://www.youtube.com/watch?v=WnGPv6HnBok&list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
-* [Explosion/Ines Montani -](https://www.youtube.com/watch?v=THduWAnG97k&list=PLBmcuObd5An7CEbfoZcRVfswgB_FKz6Gb)
+* [Explosion/Ines Montani - Advanced NLP with spaCy](https://www.youtube.com/watch?v=THduWAnG97k&list=PLBmcuObd5An7CEbfoZcRVfswgB_FKz6Gb)
 
 ## Other Resources
 
