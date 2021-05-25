@@ -11,14 +11,24 @@
 
 ## Online Courses
 
+### Python in General
+
 * [Codecademy](https://www.codecademy.com)
 * [mimo](https://getmimo.com)
 * [DataCamp](https://datacamp.com)
 * [Talk Python Training](https://training.talkpython.fm/)
 * [Django Girls](https://djangogirls.org/)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
+
+### NLP
+
 * [fast.ai A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 * [Lena Voita - NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
+
+### spaCy
+
+* [Explosion/Vincent Warmerdam - Intro to NLP with spaCy](https://www.youtube.com/watch?v=WnGPv6HnBok&list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
+* [Explosion/Ines Montani - Advanced NLP with spaCy](https://www.youtube.com/watch?v=THduWAnG97k&list=PLBmcuObd5An7CEbfoZcRVfswgB_FKz6Gb)
 
 ## Python/NLP University Classes
 
@@ -29,11 +39,6 @@
 ## Articles
 
 * [Top 10 Python Libraries for Natural Language Processing (NLP) in 2020](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
-
-## spaCy Related
-
-* [Explosion/Vincent Warmerdam - Intro to NLP with spaCy](https://www.youtube.com/watch?v=WnGPv6HnBok&list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
-* [Explosion/Ines Montani - Advanced NLP with spaCy](https://www.youtube.com/watch?v=THduWAnG97k&list=PLBmcuObd5An7CEbfoZcRVfswgB_FKz6Gb)
 
 ## Other Resources
 
