@@ -18,6 +18,7 @@
 * [Django Girls](https://djangogirls.org/)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [fast.ai A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
+* [Lena Voita - NLP Course | For You](https://lena-voita.github.io/nlp_course.html)
 
 ## Python/NLP University Classes
 
@@ -42,3 +43,4 @@
 * [Calcomde - Great Short Video Tutorials](https://calmcode.io/)
 * [Download NLTK Data and Corpora](http://www.nltk.org/nltk_data/)
 * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
+* [NLP Tutorial (building models using PyTorch)](https://github.com/graykode/nlp-tutorial)
