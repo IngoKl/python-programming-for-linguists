@@ -23,10 +23,16 @@
 
 * [Stanford NLP’s CS224n: *Natural Language Processing with Deep Learning*](http://web.stanford.edu/class/cs224n/)
 * [Carnegie Mellon's CS 11-747: Neural Networks for NLP](http://phontron.com/class/nn4nlp2021/index.html)
+* [Michigan State University's CSE 842: A Hands-on Introduction to Natural Language Processing (NLP)](https://github.com/deskool/nlp-class)
 
 ## Articles
 
 * [Top 10 Python Libraries for Natural Language Processing (NLP) in 2020](https://kleiber.me/blog/2020/08/26/top-10-python-nlp-libraries-2020/)
+
+## spaCy Related
+
+* [Explosion/Vincent Warmerdam - Intro to NLP with spaCy](https://www.youtube.com/watch?v=WnGPv6HnBok&list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
+* [Explosion/Ines Montani -](https://www.youtube.com/watch?v=THduWAnG97k&list=PLBmcuObd5An7CEbfoZcRVfswgB_FKz6Gb)
 
 ## Other Resources
 
