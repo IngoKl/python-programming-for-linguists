@@ -42,7 +42,7 @@ The data, as individual text files, then will be available in `data/corpora/coca
 
 The [HUM19UK Corpus](https://www.linguisticsathuddersfield.com/hum19uk-corpus) is a corpus of 100 19th century British novels. It contains 100 complete novels written by 100 authors. It has been compiled by Fransina Stradling, Brian Walker, Dan McIntyre, Elliott Land, Hazel Price, and Michael Burke.
 
-Using the script below, you can download the the corpus from [linguisticsathuddersfield.com/hum19uk-corpus](https://www.linguisticsathuddersfield.com/hum19uk-corpus).
+Using the script below, you can download the corpus from [linguisticsathuddersfield.com/hum19uk-corpus](https://www.linguisticsathuddersfield.com/hum19uk-corpus).
 
 ```bash
 !git clone https://github.com/IngoKl/python-programming-for-linguists
