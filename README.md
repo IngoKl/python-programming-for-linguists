@@ -99,6 +99,7 @@ This workshop, next to the videos and livestream, has 17 main exercises as well 
 * [Exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
 * [Exercises 8 to 17](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf) (Solutions will be available after the live session)
 * [Additional Exercise: Regular Expressions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Additional_Exercises_RegEx.ipynb) ([Exercise Video](https://www.youtube.com/watch?v=GGEveroG3Fg))
+* [Additional Exercise: Frequency Distribution](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Additional_Exercises_Frequency_Distribution.ipynb) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Additional_Exercises_Solutions_Frequency_Distribution.ipynb))
 
 For *Exercises 8 to 17*, solutions will be available after the live session. Of course, you can have a look at the [2020 version of the solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_8_16.ipynb) beforehand.
 
