@@ -130,3 +130,7 @@ dmypy.json
 
 # Misc
 TODO.txt
+
+# Microsoft Office Temp
+~$*.pptx
+~$*.docx

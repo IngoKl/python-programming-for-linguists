@@ -127,7 +127,11 @@ Aside from the main material, there are also a few **advanced bonus notebooks** 
 * [Video: A Shell Primer for Linguistics](https://www.youtube.com/watch?v=6H-D6ujhMOY)
 * [List of Additional Resources](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Links_to_Resources.md)
 
-## 5. License
+## 5. Python Version and Coding Style
+
+This workshop is based on **modern Python** and requires a version of Python >= 3.6. All of the code, as well as the used external libraries, should be compatible with everything up to Python 3.9 as well. If you are interested, also have a look at the [*Coding Style Guide*](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Coding_Style_Guide.md) for this workshop in which I discuss how most of the code is styled and why.
+
+## 6. License
 
 You are (relatively) free to use all of these materials as you like.
 

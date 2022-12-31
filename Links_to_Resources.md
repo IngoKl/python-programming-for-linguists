@@ -49,3 +49,4 @@
 * [Download NLTK Data and Corpora](http://www.nltk.org/nltk_data/)
 * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
 * [NLP Tutorial (building models using PyTorch)](https://github.com/graykode/nlp-tutorial)
+* [Meta List of Resources at education.python.org](https://education.python.org/resources/resource/list)
