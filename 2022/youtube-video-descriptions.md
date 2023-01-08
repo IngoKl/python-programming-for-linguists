@@ -5,7 +5,7 @@
 This video is part of my "Python Programming for Linguists" workshop.
 Workshop: https://github.com/IngoKl/python-programming-for-linguists
 
-First, this video introduces some new Python/programming concepts and essential tools. Then, we are going to work through exercises 8 to 17 .
+First, this video introduces some new Python/programming concepts and essential tools. Then, we are going to work through exercises 8 to 17.
 
 The finished and somewhat polished Python notebook (Google Colab), as well as the slides, are available in the repository.
 

@@ -2,7 +2,7 @@
 
 [![Learning Path: Long](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-long.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md)
 [![Learning Path: Short](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-short.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-short.md)
-[![Learning Path: Experienced](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-short.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-experienced.md)
+[![Learning Path: Experienced](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-experienced.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-experienced.md)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IngoKl/python-programming-for-linguists/)
 
 ![Python Programming for Linguists](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/banner.png)
@@ -89,7 +89,7 @@ There is no fixed schedule for *updating these materials* as I am not actively t
 
 ### 4.1 Videos and Recordings
 
-All of these videos are currently hosted on YouTube. There are two playlists: [2020](https://www.youtube.com/playlist?list=PLG6oHk0SZfBxRIegm0QvzDvmumma7grp5)) and [2021](https://www.youtube.com/playlist?list=PLG6oHk0SZfBwNq7gpK45e3YPTbfNfmKfi).
+All of these videos are currently hosted on YouTube ([Playlist](https://www.youtube.com/playlist?list=PLG6oHk0SZfBxRIegm0QvzDvmumma7grp5)). Additional *Technology Primers for Linguisics* are available via their own [YouTube playlist](https://www.youtube.com/watch?v=7EETKVp20y4&list=PLG6oHk0SZfBzNHJQC4WLIMopcfD271uxh).
 
 * [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=4UnF45lniyY)
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)

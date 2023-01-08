@@ -19,9 +19,7 @@ Now we are approaching the biggest set of exercises in this workshop. These exer
 
 If you have knowledge about intermediate Python concepts (e.g., List Comprehensions and Pandas `DataFrames`) you can safely skip to the Exercises. If not, have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
 
-3. Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session.
-
-If you are working through the workshop at your own pace, have a look at the [recording](https://youtu.be/DLyVL0mEISU) and work through the exercises.
+3. Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session. If you are working through the workshop at your own pace, have a look at the [recording](https://youtu.be/DLyVL0mEISU) and work through the exercises.
 
 *Congratulations, you are almost finished!* 😃
 

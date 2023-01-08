@@ -18,7 +18,7 @@ You can also flip these two videos around if you are eager to start coding as fa
 If you don't want to rely on Google, you will have to set up your own development environment locally. This is a little bit tricky, but you'll be fine! In this case, proceed as follows:
 
 1. Watch the video ["Python Programming for Absolute Beginners"](https://www.youtube.com/watch?v=4UnF45lniyY).
-2. Watch the video [Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg).
+2. Watch the video ["Setting Up Your Development Environment (Windows)"](https://www.youtube.com/watch?v=xrXEouns3fg).
 
 ## Let's Get Coding
 
@@ -38,9 +38,7 @@ Either way, you should prepare a little before attempting them:
 
 8. Have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
 
-9. Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session.
-
-If you are working through the workshop at your own pace, have a look at the [recording](https://youtu.be/DLyVL0mEISU) and work through the exercises. There are [solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2022/exercises/Solutions_Exercises_8_17.ipynb) available for you to consult and experiment with.
+9. Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session. If you are working through the workshop at your own pace, have a look at the [recording](https://youtu.be/DLyVL0mEISU) and work through the exercises. There are [solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2022/exercises/Solutions_Exercises_8_17.ipynb) available for you to consult and experiment with.
 
 *Congratulations, you are almost finished!* 😃
 
