@@ -1,5 +1,11 @@
 # YouTube Video Descriptions (2022)
 
+## Playlist (Workshop: Python Programming for Linguists)
+
+In this workshop, consisting of several videos and exercises, you will be introduced to Python and its application within (corpus) linguistics. After a short general introduction to programming as well as Python, we will utilize Python to solve several (corpus) linguistic exercises.
+
+Workshop: https://github.com/IngoKl/python-programming-for-linguists
+
 ## 03 - Python for (Corpus) Linguists (2022)
 
 This video is part of my "Python Programming for Linguists" workshop.
