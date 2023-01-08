@@ -47,6 +47,8 @@ Content
 
 ## 03 - Python for (Corpus) Linguists (Live Recording)
 
+Important Note: There is a newer version of this video/module available! Please consider watching the new (2022) video instead of this recording: https://youtu.be/DLyVL0mEISU
+
 This video is part of my 2020 "Python Programming for Linguists" workshop.
 Workshop: https://github.com/IngoKl/python-programming-for-linguists
 

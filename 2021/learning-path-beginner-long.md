@@ -45,12 +45,12 @@ Either way, you should prepare a little before attempting them:
 8. Have a look at the [*(Linux) Command Line Primer*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Command_Line_Primer.md).
 9. Have a look at the [*New Tools and Syntax*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/notebooks/03_New_Tools_and_Syntax.ipynb) notebook and play around with these new tools in your toolbox.
 
-Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session.
+10. Now you should be ready for [*Exercises 8 to 17*](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf). Have a look at them, but don't get scared! 😱 These are rather challenging, and you are not supposed to solve them on your own just now! That said, especially if you are planning to attend the live session, having a look at them beforehand will help during the session.
 
-If you are working through the workshop at your own pace, have a look at the recording of the live session and work through the exercises.
+If you are working through the workshop at your own pace, have a look at the [recording](https://youtu.be/DLyVL0mEISU) and work through the exercises. There are [solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2022/exercises/Solutions_Exercises_8_17.ipynb) available for you to consult and experiment with.
 
 *Congratulations, you are almost finished!* 😃
 
-10. Finally, watch the video ["Summary and Resources"](https://www.youtube.com/watch?v=ajKqESDmrKc).
+11. Finally, watch the video ["Summary and Resources"](https://www.youtube.com/watch?v=ajKqESDmrKc).
 
 Now that you have worked through most of the materials feel free to have a look at the [Bonus Notebooks](https://github.com/IngoKl/python-programming-for-linguists/tree/main/Bonus%20Notebooks) and the [List of Additional Resources](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Links_to_Resources.md).

@@ -1,20 +1,23 @@
-# Python Programming for Linguists (2021)
+# Python Programming for Linguists
 
+[![Learning Path: Long](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-long.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md)
+[![Learning Path: Short](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-short.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-short.md)
+[![Learning Path: Experienced](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/lp-short.svg)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-experienced.md)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IngoKl/python-programming-for-linguists/)
 
-![Python Programming for Linguists](https://github.com/IngoKl/python-programming-for-linguists/blob/main/banner.png)
+![Python Programming for Linguists](https://github.com/IngoKl/python-programming-for-linguists/blob/main/images/banner.png)
 
 ---
 
-The **live session** (about three hours) will take place on **June 11th, 2021** at **18:00 CEST** on [Twitch](https://www.twitch.tv/ingokl).
+The last **live session** (about three hours) has taken place on **June 11th, 2021** at **18:00 CEST** on [Twitch](https://www.twitch.tv/ingokl).
 
-**Quick Start**: Go straight to the [default learning path](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md) (*Absolute Beginner (Long)*).
+**Quick Start**: Go straight to the [default learning path](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-long.md) – *Absolute Beginner (Long)*.
 
 ---
 
-Welcome to this repository for the *Python Programming for Linguists* workshop.
+Welcome to this repository for the **Python Programming for Linguists** workshop.
 
-In this workshop, consisting of several videos and exercises, as well as a live session, you will be introduced to Python and its application within (corpus) linguistics. After a short general introduction to programming as well as Python, we will utilize Python to solve several (corpus) linguistic exercises.
+In this workshop, consisting of several videos and exercises, as well as a live session (recordings/videos available), you will be introduced to Python and its application within (corpus) linguistics. After a short general introduction to programming as well as Python, we will utilize Python to solve several (corpus) linguistic exercises.
 
 This workshop is specifically targeted towards people who have **no prior experience programming**. While this workshop is not intended to make you a programmer, you will gain a fundamental understanding of how programming works and how to proceed should you want to deepen your knowledge and skills. In addition, by looking at various example tasks that are commonly solved using existing software, we will try to deepen our understanding of how commonly used tools work under the hood.
 
@@ -24,7 +27,7 @@ While the materials and exercises are targeted towards beginners, they are **cha
 
 Please do not feel discouraged if you get stuck or if something seems too hard at first. I have provided solutions for all exercises, and you will also find lots of additional helpful resources in this repository. Also, while not required, you can prepare for this workshop by consulting other slower-paced introductory courses such as the ones listed in [this document](https://github.com/IngoKl/python-programming-for-linguists/blob/main/Links_to_Resources.md). *You will get there!* 🚀
 
-This (2021) is the second iteration of this workshop which started as part of my *Data Literacy for Linguists* class taught at the University of Cologne. Therefore, I will be reusing most of the material from the 2020 rendition. Please do not get confused about the `2020` and `2021` folders and simply follow the **learning path(s) provided below**. That being said, feel free to explore as much as you want!
+This repository currently reflects the the second iteration of this workshop (2021) which started as part of my *Data Literacy for Linguists* class taught at the University of Cologne. Therefore, I will be reusing most of the material from the 2020 rendition. In 2022, the material has been slightly updated, especially regarding a new solutions video for Exercises 8 to 17 and a note regarding the use of [ChatGPT](https://chat.openai.com) and similar AI systems. Hence, please do not get confused about the `2020`, `2021`, and `2022` folders and simply follow the **learning path(s) provided below**. That being said, feel free to explore as much as you want!
 
 Originally, this workshop has been inspired by workshops I held at [35c3](https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners) and [36c3 a](https://events.ccc.de/congress/2019/wiki/index.php/Session:Python_Programming_for_Absolute_Beginners)/[36c3 b](https://events.ccc.de/congress/2019/wiki/index.php/Session:Introduction_to_Natural_Language_Processing).
 
@@ -60,11 +63,13 @@ The *Absolute Beginner (Long)* path also contains additional materials and exerc
 * [Absolute Beginner (Short)](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-beginner-short.md)
 * [Experienced in Python](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/learning-path-experienced.md)
 
-### 2.2 Live Session
+### 2.2 Live Sessions
 
-The live session (about three hours) will take place on **June 11th, 2021** at **18:00 CEST** on [Twitch](https://www.twitch.tv/ingokl).
+The las live session (about three hours) has taken place on **June 11th, 2021** at **18:00 CEST** on [Twitch](https://www.twitch.tv/ingokl).
 
-After the session, I will make available a recording. If you are interested, last year's recording (slightly edited and polished) is available on [YouTube](https://www.youtube.com/watch?v=70g9oeclNac).
+If you are interested, last year's recording (slightly edited and polished) is available on [YouTube](https://www.youtube.com/watch?v=70g9oeclNac).
+
+Also, as of December 2022, pre-recorded solutions for Exercises 8 to 17, instead of the live session(s), are available for you to watch (see below).
 
 ## 3. Coding Along
 
@@ -76,7 +81,11 @@ The videos are intended to be paused from time to time. Do not feel forced to wa
 
 ## 4. List of Materials
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IngoKl/python-programming-for-linguists/)
+
 This is a list of the available materials. I would suggest **following one of the learning paths provided above**, but of course, you are free to use the materials as you see fit.
+
+There is no fixed schedule for *updating these materials* as I am not actively teaching this workshop at the moment. While the "old" materials, e.g., from 2020, are largely kept as is, I have gone back and made some very minor changes – e.g., when I came across a typo.
 
 ### 4.1 Videos and Recordings
 
@@ -85,7 +94,7 @@ All of these videos are currently hosted on YouTube. There are two playlists: [2
 * [00 - Python Programming for Absolute Beginners](https://www.youtube.com/watch?v=4UnF45lniyY)
 * [01 - The Pizza Problem](https://www.youtube.com/watch?v=g9tOyVI5B3E)
 * [02 - Working with Files, Texts, and Regular Expressions](https://www.youtube.com/watch?v=y37_JvSY-GM)
-* 03 - Python for (Corpus) Linguists / Exercises 8 to 17 (Live Session) ([2020 Recording](https://www.youtube.com/watch?v=70g9oeclNac))
+* [03 - Python for (Corpus) Linguists / Exercises 8 to 17 (2022 Recording)](https://youtu.be/DLyVL0mEISU) ([Old 2020 Recording](https://www.youtube.com/watch?v=70g9oeclNac))
 * [04 - Summary and Resources](https://www.youtube.com/watch?v=ajKqESDmrKc)
 * [05 - Setting Up Your Development Environment (Windows)](https://www.youtube.com/watch?v=xrXEouns3fg) (Alternative to using *Google Colab*. Please watch [video 00](https://www.youtube.com/watch?v=4UnF45lniyY) first in any case!)
 * [06 - Getting Started with Google Colab](https://www.youtube.com/watch?v=JxjUEvQSFkU)
@@ -97,17 +106,15 @@ This workshop, next to the videos and livestream, has 17 main exercises as well 
 * [Exercises 1 to 3](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%201-3.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_1_3.ipynb))
 * [Exercises 4 and 5](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%204-5.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_4_5.ipynb))
 * [Exercises 6 and 7](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Exercises%206-7.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_6_7.ipynb))
-* [Exercises 8 to 17](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf) (Solutions will be available after the live session)
+* [Exercises 8 to 17](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Exercises%208-17.pdf) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2022/exercises/Solutions_Exercises_8_17.ipynb))
 * [Additional Exercise: Regular Expressions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Additional_Exercises_RegEx.ipynb) ([Exercise Video](https://www.youtube.com/watch?v=GGEveroG3Fg))
-* [Additional Exercise: Frequency Distribution](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Additional_Exercises_Frequency_Distribution.ipynb) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Additional_Exercises_Solutions_Frequency_Distribution.ipynb))
-
-For *Exercises 8 to 17*, solutions will be available after the live session. Of course, you can have a look at the [2020 version of the solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/exercises/Solutions_Exercises_8_16.ipynb) beforehand.
+* [Additional Exercise: Frequency Distribution](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Additional_Exercises_Frequency_Distribution.ipynb) ([Solutions](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2021/exercises/Additional_Exercises_Solutions_Frequency_Distribution.ipynb))
 
 Please note that for each exercise, you will find **solutions in this repository**. Don't feel bad if you cannot immediately solve the exercises - the solutions are there to help you. Of course, feel free to take apart these suggested solutions and play with them.
 
 ### 4.3 Slides
 
-All of the slides (in both `.pptx` and `.pdf`) are available as well: [2020](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/slides) and [2021](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2021/slides).
+All of the slides (in both `.pptx` and `.pdf`) are available as well. See [2020](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2020/slides), [2021](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2021/slides), and [2022](https://github.com/IngoKl/python-programming-for-linguists/tree/main/2022/slides).
 
 ### 4.4 Bonus Notebooks
 
@@ -137,3 +144,9 @@ You are (relatively) free to use all of these materials as you like.
 
 * The code (notebooks and scripts) is licensed under the [MIT License](https://github.com/IngoKl/python-programming-for-linguists/blob/main/LICENSE.md).
 * The slides, videos, and exercises are licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) license.
+
+### A Note on the HUM19UK Corpus by Fransina Stradling et al.
+
+In some exercises, this workshop relies on the wonderful [HUM19UK corpus](https://varieng.helsinki.fi/CoRD/corpora/HUM19UK/index.html) (Huddersfield, Utrecht, Middelburg Corpus of 19th Century Fiction) compiled by Fransina Stradling, Brian Walker, Dan McIntyre, Elliot Land, Hazel Price, and Michael Burke.
+
+Unfortunately, the corpus website (linguisticsathuddersfield.com) cannot be reached anymore, and access to the corpus has become harder for the moment. Hence, for now, and in the spirit of their original licensing, I have made the data available through one of my servers and updated the [download script](https://github.com/IngoKl/python-programming-for-linguists/blob/main/2020/data/download_hum19uk.sh) accordingly.
